@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveshSingh-00011
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ...DSA
+- 👀 I’m an aspiring Business Analyst
+- 🌱 I’m currently solving complex case studies
 - 💞️ I’m looking to collaborate on ...LinkedIn
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
